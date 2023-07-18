@@ -67,7 +67,7 @@ public class Operators {
 					result=a||b;
 					System.out.println("Result (Logical OR):"+result);			//Logical OR operator
 					result=!a;
-					System.out.println("Result (Logica NOT):"+result);			//Logical Not operator
+					System.out.println("Result (Logical NOT):"+result);			//Logical Not operator
 					break;
 					
 				case 5:
